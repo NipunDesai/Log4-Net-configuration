@@ -1,0 +1,107 @@
+2016-05-13 14:34:42,068 [11] ERROR Log4Netconfiguration.Controllers.HomeController [(null)] - log
+2016-05-13 14:34:42,273 [11] WARN  Log4Netconfiguration.Controllers.HomeController [(null)] - log
+2016-05-13 14:34:42,468 [11] INFO  Log4Netconfiguration.Controllers.HomeController [(null)] - log
+2016-05-13 14:34:42,684 [11] FATAL Log4Netconfiguration.Controllers.HomeController [(null)] - log
+2016-05-13 14:35:30,982 [8] ERROR Log4Netconfiguration.Controllers.HomeController [(null)] - log
+2016-05-13 14:35:30,995 [8] WARN  Log4Netconfiguration.Controllers.HomeController [(null)] - log
+2016-05-13 14:35:30,996 [8] INFO  Log4Netconfiguration.Controllers.HomeController [(null)] - log
+2016-05-13 14:35:30,996 [8] FATAL Log4Netconfiguration.Controllers.HomeController [(null)] - log
+2016-05-13 14:45:00,019 [8] ERROR Microsoft.Ajax.Utilities.ClassType [(null)] - log
+2016-05-13 14:45:00,033 [8] WARN  Microsoft.Ajax.Utilities.ClassType [(null)] - log
+2016-05-13 14:45:00,033 [8] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log
+2016-05-13 14:45:00,033 [8] FATAL Microsoft.Ajax.Utilities.ClassType [(null)] - log
+2016-05-13 14:53:51,250 [8] DEBUG Log4Netconfiguration.Controllers.HomeController [(null)] -  Debug log
+2016-05-13 14:53:51,271 [8] ERROR Log4Netconfiguration.Controllers.HomeController [(null)] - Error log
+2016-05-13 14:53:51,271 [8] INFO  Log4Netconfiguration.Controllers.HomeController [(null)] - log Info
+2016-05-13 14:53:56,483 [8] DEBUG Log4Netconfiguration.Controllers.HomeController [(null)] -  Debug log
+2016-05-13 14:53:56,483 [8] ERROR Log4Netconfiguration.Controllers.HomeController [(null)] - Error log
+2016-05-13 14:53:56,484 [8] INFO  Log4Netconfiguration.Controllers.HomeController [(null)] - log Info
+2016-05-13 15:00:39,757 [8] DEBUG Log4Netconfiguration.Controllers.HomeController [(null)] -  Debug log
+2016-05-13 15:00:39,777 [8] ERROR Log4Netconfiguration.Controllers.HomeController [(null)] - Error log
+2016-05-13 15:00:39,778 [8] INFO  Log4Netconfiguration.Controllers.HomeController [(null)] - log Info
+2016-05-13 15:01:07,917 [11] DEBUG Log4Netconfiguration.Controllers.HomeController [(null)] -  Debug log
+2016-05-13 15:01:07,918 [11] ERROR Log4Netconfiguration.Controllers.HomeController [(null)] - Error log
+2016-05-13 15:01:07,918 [11] INFO  Log4Netconfiguration.Controllers.HomeController [(null)] - log Info
+2016-05-13 15:04:33,492 [8] DEBUG Log4Netconfiguration.Controllers.HomeController [(null)] -  Debug log
+2016-05-13 15:04:33,513 [8] ERROR Log4Netconfiguration.Controllers.HomeController [(null)] - Error log
+2016-05-13 15:04:36,132 [8] INFO  Log4Netconfiguration.Controllers.HomeController [(null)] - log Info
+2016-05-13 15:04:39,704 [10] DEBUG Log4Netconfiguration.Controllers.HomeController [(null)] -  Debug log
+2016-05-13 15:04:39,704 [10] ERROR Log4Netconfiguration.Controllers.HomeController [(null)] - Error log
+2016-05-13 15:04:41,317 [10] INFO  Log4Netconfiguration.Controllers.HomeController [(null)] - log Info
+2016-05-13 15:05:33,155 [16] DEBUG Log4Netconfiguration.Controllers.HomeController [(null)] -  Debug log
+2016-05-13 15:05:33,156 [16] ERROR Log4Netconfiguration.Controllers.HomeController [(null)] - Error log
+2016-05-13 15:05:38,888 [16] INFO  Log4Netconfiguration.Controllers.HomeController [(null)] - log Info
+2016-05-13 16:02:41,821 [7] DEBUG Log4Netconfiguration.Controllers.HomeController [(null)] -  Debug log
+2016-05-13 16:02:41,842 [7] ERROR Log4Netconfiguration.Controllers.HomeController [(null)] - Error log
+2016-05-13 16:02:45,504 [7] INFO  Log4Netconfiguration.Controllers.HomeController [(null)] - log Info
+2016-05-13 16:13:29,490 [8] DEBUG Log4Netconfiguration.Controllers.HomeController [(null)] -  Debug log
+2016-05-13 16:13:29,510 [8] ERROR Log4Netconfiguration.Controllers.HomeController [(null)] - Error log
+2016-05-13 16:13:33,255 [8] INFO  Log4Netconfiguration.Controllers.HomeController [(null)] - log Info
+2016-05-13 17:44:35,870 [8] DEBUG Log4Netconfiguration.LoggerRepository.Logger [(null)] - debug Log
+2016-05-13 17:44:35,896 [8] INFO  Log4Netconfiguration.LoggerRepository.Logger [(null)] - log information
+2016-05-13 18:11:29,347 [8] DEBUG Log4Netconfiguration.LoggerRepository.Logger [(null)] - debug Log
+2016-05-13 18:11:31,835 [8] INFO  Log4Netconfiguration.LoggerRepository.Logger [(null)] - log information
+2016-05-13 18:12:43,377 [8] DEBUG Log4Netconfiguration.LoggerRepository.Logger [(null)] - debug Log
+2016-05-13 18:12:43,931 [8] INFO  Log4Netconfiguration.LoggerRepository.Logger [(null)] - log information
+2016-05-13 18:34:39,459 [8] DEBUG Log4Netconfiguration.LoggerRepository.Logger [(null)] - debug Log
+2016-05-13 18:34:39,956 [8] INFO  Log4Netconfiguration.LoggerRepository.Logger [(null)] - log information
+2016-05-16 17:09:29,665 [9] DEBUG Log4Netconfiguration.LoggerRepository.Logger [(null)] - debug Log16-05-2016 11:39:29
+2016-05-16 17:09:30,092 [9] INFO  Log4Netconfiguration.LoggerRepository.Logger [(null)] - log information16-05-2016 11:39:30
+2016-05-16 17:09:54,302 [6] DEBUG Log4Netconfiguration.LoggerRepository.Logger [(null)] - debug Log16-05-2016 11:39:50
+2016-05-16 17:09:54,303 [6] INFO  Log4Netconfiguration.LoggerRepository.Logger [(null)] - log information16-05-2016 11:39:54
+2016-05-16 17:11:24,564 [11] DEBUG Log4Netconfiguration.LoggerRepository.Logger [(null)] - debug Log16-05-2016 11:41:24
+2016-05-16 17:11:25,042 [11] INFO  Log4Netconfiguration.LoggerRepository.Logger [(null)] - log information16-05-2016 11:41:25
+2016-05-16 17:11:35,080 [10] DEBUG Log4Netconfiguration.LoggerRepository.Logger [(null)] - debug Log16-05-2016 11:41:35
+2016-05-16 17:11:35,081 [10] INFO  Log4Netconfiguration.LoggerRepository.Logger [(null)] - log information16-05-2016 11:41:35
+2016-05-16 17:12:33,920 [9] DEBUG Log4Netconfiguration.LoggerRepository.Logger [(null)] - debug Log16-05-2016 11:42:33
+2016-05-16 17:12:34,196 [9] INFO  Log4Netconfiguration.LoggerRepository.Logger [(null)] - log information16-05-2016 11:42:34
+2016-05-16 17:14:05,367 [11] DEBUG Log4Netconfiguration.LoggerRepository.Logger [(null)] - debug Log16-05-2016 11:44:02
+2016-05-16 17:14:06,252 [11] INFO  Log4Netconfiguration.LoggerRepository.Logger [(null)] - log information16-05-2016 11:44:06
+2016-05-16 17:15:52,540 [8] DEBUG Log4Netconfiguration.Controllers.HomeController [(null)] -  Debug log
+2016-05-16 17:15:52,560 [8] ERROR Log4Netconfiguration.Controllers.HomeController [(null)] - Error log
+2016-05-16 17:15:55,312 [8] INFO  Log4Netconfiguration.Controllers.HomeController [(null)] - log Info
+2016-05-16 17:16:55,447 [8] DEBUG Log4Netconfiguration.Controllers.HomeController [(null)] -  Debug log
+2016-05-16 17:16:55,467 [8] ERROR Log4Netconfiguration.Controllers.HomeController [(null)] - Error log
+2016-05-16 17:16:58,736 [8] INFO  Log4Netconfiguration.Controllers.HomeController [(null)] - log Info
+2016-05-16 17:18:22,850 [11] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] -  Debug log
+2016-05-16 17:18:22,871 [11] ERROR Microsoft.Ajax.Utilities.ClassType [(null)] - Error log
+2016-05-16 17:18:25,572 [11] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log Info
+2016-05-16 17:18:27,724 [9] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] -  Debug log
+2016-05-16 17:18:27,726 [9] ERROR Microsoft.Ajax.Utilities.ClassType [(null)] - Error log
+2016-05-16 17:18:29,427 [9] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log Info
+2016-05-16 17:20:08,204 [10] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] -  Debug log
+2016-05-16 17:20:08,225 [10] ERROR Microsoft.Ajax.Utilities.ClassType [(null)] - Error log
+2016-05-16 17:20:10,894 [10] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log Info
+2016-05-16 17:20:22,058 [10] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 11:50:22
+2016-05-16 17:20:22,060 [10] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 11:50:22
+2016-05-16 17:20:27,628 [13] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] -  Debug log
+2016-05-16 17:20:27,629 [13] ERROR Microsoft.Ajax.Utilities.ClassType [(null)] - Error log
+2016-05-16 17:20:28,682 [13] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log Info
+2016-05-16 17:20:28,683 [13] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 11:50:28
+2016-05-16 17:20:28,684 [13] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 11:50:28
+2016-05-16 17:21:18,626 [8] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 11:51:18
+2016-05-16 17:21:18,648 [8] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 11:51:18
+2016-05-16 17:21:23,036 [11] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 11:51:23
+2016-05-16 17:21:23,037 [11] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 11:51:23
+2016-05-16 17:22:12,164 [8] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 11:52:12
+2016-05-16 17:22:12,188 [8] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 11:52:12
+2016-05-16 17:22:16,469 [8] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 11:52:16
+2016-05-16 17:22:16,470 [8] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 11:52:16
+2016-05-16 17:23:44,097 [10] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 11:53:44
+2016-05-16 17:23:44,118 [10] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 11:53:44
+2016-05-16 17:23:49,534 [10] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 11:53:49
+2016-05-16 17:23:49,539 [10] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 11:53:49
+2016-05-16 17:24:21,040 [7] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 11:54:21
+2016-05-16 17:24:21,041 [7] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 11:54:21
+2016-05-16 17:24:51,471 [8] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 11:54:51
+2016-05-16 17:24:51,493 [8] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 11:54:51
+2016-05-16 17:24:54,863 [9] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 11:54:54
+2016-05-16 17:24:54,864 [9] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 11:54:54
+2016-05-16 17:53:18,677 [8] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 12:23:18
+2016-05-16 17:53:18,700 [8] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 12:23:18
+2016-05-16 17:53:22,294 [11] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 12:23:22
+2016-05-16 17:53:22,295 [11] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 12:23:22
+2016-05-16 17:53:23,175 [11] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 12:23:23
+2016-05-16 17:53:23,176 [11] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 12:23:23
+2016-05-16 17:53:45,880 [5] DEBUG Microsoft.Ajax.Utilities.ClassType [(null)] - debug Log16-05-2016 12:23:45
+2016-05-16 17:53:45,881 [5] INFO  Microsoft.Ajax.Utilities.ClassType [(null)] - log information16-05-2016 12:23:45
